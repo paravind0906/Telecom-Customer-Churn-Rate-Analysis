@@ -7,3 +7,7 @@ Analyze the customer data to predict whether the customer will churn or not. The
 **Brief Description about the project**
 
 This is a pre-crawled dataset, taken as a subset of a bigger dataset that was created by extracting data from IBM, which ranks among the world's largest information technology companies. We would like to investigate the relationship between the Churn rate and other attributes in the dataset such as Tenure, Phone service etc.. This is important for the company because our analysis should indicate the most significant and priority attributes that contribute to the Churn rate. Thus, it can help decide what kind of service to provide as a priority to attract more customers and finally achieve the target of reducing the Churn rate on the application.
+
+**Models and Visualizations built:**
+
+Classification , regression algorithm, regression table, Decision tree,random forest, Heatmap and clustering to show attribute correlation.
